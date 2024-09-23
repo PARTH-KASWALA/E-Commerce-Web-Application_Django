@@ -1,9 +1,3 @@
-# E-Commerce-Web-Application_Django
-
-To create a similar **README** file for your E-Commerce project, here's an example tailored to your project:
-
----
-
 # E-Commerce Web Application API
 
 This is a simple E-Commerce API built with Django Rest Framework. The API supports CRUD operations for products, orders, users, and payments.
