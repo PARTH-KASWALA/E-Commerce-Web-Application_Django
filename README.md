@@ -1,6 +1,32 @@
 # E-Commerce Web Application API
 
-This is a simple E-Commerce API built with Django Rest Framework. The API supports CRUD operations for products, orders, users, and payments.
+Note : This is a simple E-Commerce API built with Django Rest Framework. The API supports CRUD operations for products, orders, users, and payments.
+
+
+## 📖 Project Overview
+
+**E-Commerce Web Application (Django)** is a full-stack online shopping platform developed using **Django** and **Python**. The project demonstrates the implementation of a modern e-commerce system by integrating essential business functionalities such as user authentication, product catalog management, shopping cart, order processing, and an administrative dashboard.
+
+The application is designed with scalability, security, and maintainability in mind by following Django's **Model-View-Template (MVT)** architecture. It provides a seamless shopping experience where customers can browse products, view detailed product information, add items to their cart, and complete purchases through an intuitive interface.
+
+From the administrator's perspective, the system offers complete control over products, categories, inventory, orders, and customer information through Django's powerful admin panel. The project emphasizes clean code organization, database management, and reusable components, making it suitable for both learning advanced Django concepts and serving as a foundation for real-world e-commerce applications.
+
+### ✨ Key Highlights
+
+* User registration, login, and authentication
+* Product and category management
+* Product search and browsing
+* Shopping cart functionality
+* Order placement and management
+* Responsive and user-friendly interface
+* Django Admin dashboard for store management
+* Secure database operations using Django ORM
+* Modular and scalable project architecture
+* Built following Django MVT design pattern
+
+### 🎯 Project Objective
+
+The primary objective of this project is to build a feature-rich e-commerce platform while applying industry-standard web development practices. It demonstrates backend development with Django, relational database management, authentication, CRUD operations, session handling, and full-stack web application development, making it an excellent portfolio project for showcasing Python and Django development skills.
 
 ## Features
 
